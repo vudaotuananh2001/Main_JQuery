@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(209, 209, 112);
+}
+
+button {
+  min-width: 100px;
+  height: 50px;
+}
+
+#bnt2:hover {
+  background-color: red;
+}
+
+table {
+  border: 1px solid black;
+}
+
+.color {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
